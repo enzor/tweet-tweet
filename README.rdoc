@@ -1,0 +1,3 @@
+= tweet-tweet
+
+Just a simple Twitter Client made in Shoes . It does nothing of special, and is very buggy!
