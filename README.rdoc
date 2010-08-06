@@ -1,3 +1,10 @@
 = tweet-tweet
 
 Just a simple Twitter Client made in Shoes . It does nothing of special, and is very buggy!
+
+== Installation Instructions
+
+Just create a folder called "personal" and launch Shoes from terminal with the command 
+  
+  shoes app.rb
+  
